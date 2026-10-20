@@ -1,9 +1,0 @@
-{
-  "build": {
-    "production": {
-      "env": {
-        "TEST": "123"
-      }
-    }
-  }
-}

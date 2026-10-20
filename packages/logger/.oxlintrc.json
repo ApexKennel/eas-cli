@@ -1,9 +1,0 @@
-{
-  "extends": ["../../.oxlintrc.json"],
-  "jsPlugins": [
-    {
-      "name": "async-protect",
-      "specifier": "eslint-plugin-async-protect"
-    }
-  ]
-}
